@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Latitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="unknown">unknown</string>
+    <string name="about">Android gives your applications access to the location services supported by the device through classes in the android.location package. The central component of the location framework is the LocationManager system service, which provides APIs to determine location and bearing of the underlying device if available.</string>
+</resources>
